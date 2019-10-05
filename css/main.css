@@ -46,10 +46,6 @@ div.polaroid {
   margin-bottom: 25px;
 }
 
-/*div.container_img {
-  text-align: center;
-  padding: 10px 20px;
-}*/
 
 .pimg1{
   background-image:url('images/img-01.jpg');
@@ -144,6 +140,7 @@ div.polaroid {
 100% { left: -400%; }
 }
 
+
 #slider { overflow: hidden; }
 #slider figure img { width: 20%; float: left; }
 #slider figure { 
@@ -189,7 +186,6 @@ h3.heading{
   width: 58px;
 }
 
-
 .dark{
   width: 101%;
   background-color: rgba(0,0,0,0.75);
@@ -217,6 +213,7 @@ h3.Eduheading{
   background-color: #b2d3be;
   margin: 0 auto 2rem;
 }
+
 .body-card{
   padding-right: 3.2rem;
   padding-left: 3.2rem;
